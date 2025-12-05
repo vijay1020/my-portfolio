@@ -9,3 +9,8 @@ h2 {
 html{
   scroll-behavior:smooth;
 }
+
+#about img{
+  border: 6px solid black;
+  box-shadow:0 0 20px rgba(0,0,0,0.2);
+}
